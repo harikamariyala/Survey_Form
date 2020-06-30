@@ -1,0 +1,45 @@
+.back{
+	  background-image: url("https://tse3.mm.bing.net/th?id=OIP.SHIRcPoCttUk_4Uqj1Z4KQHaEM&pid=Api&P=0&w=276&h=157");
+	  height: 100%;
+	  background-size: cover;
+}
+.divcolor{
+       height: 99%;
+       width: 36%;
+       background-color: #0000004d;
+       color: white;
+       margin-left: 481px;
+       margin-right: 380;
+}
+.margin{
+	margin-left: 22;
+	margin-bottom:15;
+}
+.submit{
+         width: 472px;
+         border-radius: 6px;
+         border-style: none;
+         height: 23px;
+}
+.height{
+    height: 35px;
+    background-color: green;
+    cursor: pointer;
+    border-style: none;
+    color: white;
+}
+h1{
+	
+	color:white;
+}
+h3{
+	color:white;
+	margin-top:-10px;
+}
+.font{
+	font-size: 20px;
+}
+.theight{
+	height: 84px;
+	width: 472px;
+}
